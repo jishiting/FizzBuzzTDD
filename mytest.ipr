@@ -23,6 +23,7 @@
   </component>
   <component name="LimitedWIPSettings">
     <option name="doNotRevertTests" value="true" />
+    <option name="notifyOnTcrRevert" value="true" />
     <option name="tcrEnabled" value="true" />
   </component>
   <component name="MavenProjectsManager">
